@@ -24,10 +24,12 @@ A **modern, secure, and fully-featured bank management application** built with 
 ## 🖼 Screenshots
 
 ### Login Page
-![Login Page](login.png)
+![Login Page]<img width="2878" height="1366" alt="login png" src="https://github.com/user-attachments/assets/329f9065-3b3d-4445-b746-63b731bb1179" />
+
 
 ### Dashboard / Demo
-![Dashboard](dashboard.png)
+![Dashboard]<img width="2872" height="1522" alt="dashboard png" src="https://github.com/user-attachments/assets/cbd3036c-3cc3-4429-a315-5a8375cd4225" />
+
 
 ---
 
@@ -36,9 +38,9 @@ A **modern, secure, and fully-featured bank management application** built with 
 | Layer      | Technologies                          |
 |-----------|--------------------------------------|
 | Backend   | Spring Boot, Spring Security, JPA     |
-| Frontend  | Thymeleaf, Bootstrap (optional CSS)  |
+| Frontend  | Thymeleaf, Bootstrap, HTML, CSS  |
 | Database  | MySQL                                 |
-| Tools     | Maven, Git, IntelliJ IDEA             |
+| Tools     | Maven, Git, STS4             |
 
 ---
 
