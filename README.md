@@ -21,6 +21,16 @@ A **modern, secure, and fully-featured bank management application** built with 
 
 ---
 
+## 🖼 Screenshots
+
+### Login Page
+![Login Page](login.png)
+
+### Dashboard / Demo
+![Dashboard](dashboard.png)
+
+---
+
 ## 🚀 Tech Stack
 
 | Layer      | Technologies                          |
@@ -29,14 +39,6 @@ A **modern, secure, and fully-featured bank management application** built with 
 | Frontend  | Thymeleaf, Bootstrap (optional CSS)  |
 | Database  | MySQL                                 |
 | Tools     | Maven, Git, IntelliJ IDEA             |
-
----
-
-## ⚡ Demo
-
-![App Demo GIF](demo.gif)  
-
-Access the live demo locally at: `http://localhost:8080`
 
 ---
 
